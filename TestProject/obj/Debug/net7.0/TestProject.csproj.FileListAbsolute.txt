@@ -1,0 +1,14 @@
+C:\Users\moncayog\Documents\GitHub\4a-unityproject-GeovannyMoncayo\TestProject\bin\Debug\net7.0\TestProject.exe
+C:\Users\moncayog\Documents\GitHub\4a-unityproject-GeovannyMoncayo\TestProject\bin\Debug\net7.0\TestProject.deps.json
+C:\Users\moncayog\Documents\GitHub\4a-unityproject-GeovannyMoncayo\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+C:\Users\moncayog\Documents\GitHub\4a-unityproject-GeovannyMoncayo\TestProject\bin\Debug\net7.0\TestProject.dll
+C:\Users\moncayog\Documents\GitHub\4a-unityproject-GeovannyMoncayo\TestProject\bin\Debug\net7.0\TestProject.pdb
+C:\Users\moncayog\Documents\GitHub\4a-unityproject-GeovannyMoncayo\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moncayog\Documents\GitHub\4a-unityproject-GeovannyMoncayo\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\moncayog\Documents\GitHub\4a-unityproject-GeovannyMoncayo\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+C:\Users\moncayog\Documents\GitHub\4a-unityproject-GeovannyMoncayo\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\moncayog\Documents\GitHub\4a-unityproject-GeovannyMoncayo\TestProject\obj\Debug\net7.0\TestProject.dll
+C:\Users\moncayog\Documents\GitHub\4a-unityproject-GeovannyMoncayo\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+C:\Users\moncayog\Documents\GitHub\4a-unityproject-GeovannyMoncayo\TestProject\obj\Debug\net7.0\TestProject.pdb
+C:\Users\moncayog\Documents\GitHub\4a-unityproject-GeovannyMoncayo\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+C:\Users\moncayog\Documents\GitHub\4a-unityproject-GeovannyMoncayo\TestProject\obj\Debug\net7.0\ref\TestProject.dll
